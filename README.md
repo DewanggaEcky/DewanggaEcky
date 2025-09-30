@@ -10,3 +10,4 @@ Saat ini saya sedang belajar tentang pemrograman mobile:
 |  4 | 02  | 02  | Widget Flexible dan Expanded | [Modul 04](https://github.com/DewanggaEcky/Modul-4-Mobile)| [Laporan](https://drive.google.com/file/d/1cx9LDxg4vg4Es9leHqR1smvLW9tSG8xt/view?usp=sharing)|
 |  5 | 03  | 03  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://github.com/DewanggaEcky/Modul-5-Mobile)| [Laporan](https://drive.google.com/file/d/1wa1FOoTLeN2EXwgZySrj3dinhFFI9uwA/view?usp=sharing)|
 |  6 | 03  | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://github.com/DewanggaEcky/Modul-6-Mobile)| [Laporan](https://drive.google.com/file/d/19cb1Mw2we2uhvrVb3N7Gn7wqlA_c01c4/view?usp=sharing)|
+|  7 | 04  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://github.com/DewanggaEcky/Modul-7-Mobile)| [Laporan](https://drive.google.com/file/d/1NkG55L8iq0CQ4XbBfgMqpTB0cAt_ttXS/view?usp=sharing)|
