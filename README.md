@@ -16,3 +16,4 @@ Saat ini saya sedang belajar tentang pemrograman mobile:
 |  10 | 06  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/DewanggaEcky/Modul-10-Mobile)| [Laporan](https://drive.google.com/file/d/1Zd-loGhDYl1covoUAy0hesEeL5aHdJTc/view?usp=sharing)|
 |  11 | 07  | 07  | Manajemen State dengan GetX | [Modul 11](https://github.com/DewanggaEcky/Modul-11-Mobile)| [Laporan](https://drive.google.com/file/d/1hJRuTuvbf8Vu_PNJXoqJmaB1MUZHp6EJ/view?usp=sharing)|
 |  12 | 08  | 08  | Ujian Tengah Semester | [UTS](https://github.com/DewanggaEcky/CineScope)| [Laporan](https://drive.google.com/file/d/1VXOd_4UT7ZQY8GLbxMUacqJC5mFcuMBE/view?usp=sharing)|
+|  13 | 09  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/DewanggaEcky/Modul-12-Mobile)| [Laporan](https://drive.google.com/file/d/1YkYrOFK-ABDno58HGuQK8TmxpSaY7CDd/view?usp=sharing)|
