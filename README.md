@@ -14,4 +14,5 @@ Saat ini saya sedang belajar tentang pemrograman mobile:
 |  8 | 04  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://github.com/DewanggaEcky/Modul-8-Mobile)| [Laporan](https://drive.google.com/file/d/1ejgxnlX1WY0079Ayl3HbJ2-IDTP3-gQ8/view?usp=sharing)|
 |  9 | 05  | 05  | StatefulWidget | [Modul 09](https://github.com/DewanggaEcky/Modul-9-Mobile)| [Laporan](https://drive.google.com/file/d/1Xd2oLEq-ljaMOknzPU-L5NwIoXCrvtXf/view?usp=sharing)|
 |  10 | 06  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/DewanggaEcky/Modul-10-Mobile)| [Laporan](https://drive.google.com/file/d/1Zd-loGhDYl1covoUAy0hesEeL5aHdJTc/view?usp=sharing)|
+|  11 | 07  | 07  | Manajemen State dengan GetX | [Modul 11](https://github.com/DewanggaEcky/Modul-11-Mobile)| [Laporan](https://drive.google.com/file/d/1hJRuTuvbf8Vu_PNJXoqJmaB1MUZHp6EJ/view?usp=sharing)|
 |  12 | 08  | 08  | Ujian Tengah Semester | [UTS](https://github.com/DewanggaEcky/CineScope)| [Laporan](https://drive.google.com/file/d/1VXOd_4UT7ZQY8GLbxMUacqJC5mFcuMBE/view?usp=sharing)|
