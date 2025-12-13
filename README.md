@@ -18,3 +18,4 @@ Saat ini saya sedang belajar tentang pemrograman mobile:
 |  12 | 08  | 08  | Ujian Tengah Semester | [UTS](https://github.com/DewanggaEcky/CineScope)| [Laporan](https://drive.google.com/file/d/1VXOd_4UT7ZQY8GLbxMUacqJC5mFcuMBE/view?usp=sharing)|
 |  13 | 09  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/DewanggaEcky/Modul-12-Mobile)| [Laporan](https://drive.google.com/file/d/1YkYrOFK-ABDno58HGuQK8TmxpSaY7CDd/view?usp=sharing)|
 |  14 | 10  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://github.com/DewanggaEcky/Modul-13-Mobile)| [Laporan](https://drive.google.com/file/d/1g7D300xbQDDFvNEAvga_5KbUIp6pSHni/view?usp=sharing)|
+|  15 | 11  | 11  | Ujian Akhir Semester | [UAS](https://github.com/DewanggaEcky/CineScope)| [Laporan](https://drive.google.com/file/d/1A8c0Ev9Y5Qb1ou5MHdxdwTvc07LIyBdU/view?usp=sharing)|
